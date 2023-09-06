@@ -128,7 +128,7 @@ ENV/
 env.bak/
 venv.bak/
 
-DVCL/
+DVCL/train/
 
 # Spyder project settings
 .spyderproject
